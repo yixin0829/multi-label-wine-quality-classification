@@ -1,1 +1,1 @@
-# wine_quality_multi_labels_classification
+# wine_quality_multi_label_classification
