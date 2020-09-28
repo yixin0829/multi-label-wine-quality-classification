@@ -1,4 +1,4 @@
-# wine_quality_multi_label_classification
+# multi_label_wine_quality_classification
 
 This is a project in progress where I'm building a multi-label wine quality classifier with one vs. all method.
 
